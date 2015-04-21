@@ -16,3 +16,5 @@ message2 = "Howdy, #{full}. Your lucky number for today is #{lucky_number}."
 
 puts message1
 puts message2
+
+# to add the string interpolation open a double quoted string, type the sentence normally, highlight the text that corresponds to variables and hit command + # to get #{}

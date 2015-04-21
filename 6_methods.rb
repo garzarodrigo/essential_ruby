@@ -1,4 +1,4 @@
-# Defining our own methods
+# Defining our own methods, you need to call them within the body of the program
 
 def print_heading
   content = "Students"

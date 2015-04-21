@@ -12,3 +12,7 @@ puts "The second student is #{students[1]}."
 students.push("Roz")
 
 puts "The last student is #{students.last}."
+
+# one more thing you can use here is #{students[students.length - 1]}
+# yields #{students[4-1 = 3]}
+
